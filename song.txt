@@ -2,3 +2,5 @@ first string of the song
 second one
 
 and here I will write down another line of the song
+
+this line i will add using "git gui&" command, it is more convinient way for developer
